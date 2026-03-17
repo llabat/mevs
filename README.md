@@ -57,8 +57,7 @@ All other files can be **regenerated** from this file.
 
 This file is a parallel multilingual corpus of all survey items.
 
-Each row corresponds to a survey item, which **translation unit** (question sentence or
-answer option).
+Each row corresponds to a survey item, which is a **translation unit** (question sentence or answer option). Wording may vary and slight semantic variations may occur, due to the context of the human translation (national administration of the EVS).
 
 Example:
 | item_id                     | qid | type     | position | ENG_GB                                              | FRE_FR                                                        | NOR_NO                                   | POR_PT                                                                 | GER_DE                                                        | RUS_RU                                                      | CZE_CZ                                                                 | SPA_ES                                           |
