@@ -80,15 +80,10 @@ This file contains a version of prompts for the sake of example.
 
 Each row contains a **fully formatted survey prompt**, such as the following:
 
-``` json
-Please indicate if you think that the British government should or should not have the right to
-Collect information about anyone living in Great Britain without their knowledge
-A. Definitely should have the right
-B. Probably should have the right
-C. Probably should not have the right
-D. Definitely should not have the right
-Answer:
-```
+| id  | language | text |
+|-----|----------|------|
+| 126 | ENG_GB | Please indicate if you think that the British government should or should not have the right to<br>Collect information about anyone living in Great Britain without their knowledge<br>A. Definitely should have the right<br>B. Probably should have the right<br>C. Probably should not have the right<br>D. Definitely should not have the right<br>Answer: |
+
 These prompts use:
 
 -   letter symbols ('letters')
